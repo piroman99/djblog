@@ -25,7 +25,7 @@ SECRET_KEY = 'bv^-#dcc=-wprbm%4p&1ed@%66kay))629v3fs8yqlu4q_6g3l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'piroman.pythonanywhere.com']
 
 
 # Application definition
